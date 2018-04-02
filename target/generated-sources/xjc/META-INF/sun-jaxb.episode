@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb" if-exists="true" version="2.1">
+  <!--
+
+此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.11 生成的
+请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+在重新编译源模式时, 对此文件的所有修改都将丢失。
+生成时间: 2018.02.06 时间 09:01:13 PM CST 
+
+  -->
+  <bindings xmlns:tns="http://hd.ws.itf.nc/IQueryService" if-exists="true" scd="x-schema::tns">
+    <schemaBindings map="false">
+      <package name="nc"/>
+    </schemaBindings>
+    <bindings if-exists="true" scd="tns:queryArchives">
+      <class ref="nc.QueryArchives"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryArchivesResponse">
+      <class ref="nc.QueryArchivesResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryCSBillData">
+      <class ref="nc.QueryCSBillData"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryCSBillDataResponse">
+      <class ref="nc.QueryCSBillDataResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryPRBillData">
+      <class ref="nc.QueryPRBillData"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryPRBillDataResponse">
+      <class ref="nc.QueryPRBillDataResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryPRBillData_netCommunity">
+      <class ref="nc.QueryPRBillDataNetCommunity"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryPRBillData_netCommunityResponse">
+      <class ref="nc.QueryPRBillDataNetCommunityResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryPRBillData_netCommunity_PreReleaseV1">
+      <class ref="nc.QueryPRBillDataNetCommunityPreReleaseV1"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryPRBillData_netCommunity_PreReleaseV1Response">
+      <class ref="nc.QueryPRBillDataNetCommunityPreReleaseV1Response"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHouses">
+      <class ref="nc.GetHouses"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHousesResponse">
+      <class ref="nc.GetHousesResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getBuildings">
+      <class ref="nc.GetBuildings"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getBuildingsResponse">
+      <class ref="nc.GetBuildingsResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getCompanys">
+      <class ref="nc.GetCompanys"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getCompanysResponse">
+      <class ref="nc.GetCompanysResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getCommunities">
+      <class ref="nc.GetCommunities"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getCommunitiesResponse">
+      <class ref="nc.GetCommunitiesResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHouseholders">
+      <class ref="nc.GetHouseholders"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHouseholdersResponse">
+      <class ref="nc.GetHouseholdersResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHouseholderBankcards">
+      <class ref="nc.GetHouseholderBankcards"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHouseholderBankcardsResponse">
+      <class ref="nc.GetHouseholderBankcardsResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHousePrepay">
+      <class ref="nc.GetHousePrepay"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHousePrepayResponse">
+      <class ref="nc.GetHousePrepayResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getNCHouseholders">
+      <class ref="nc.GetNCHouseholders"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getNCHouseholdersResponse">
+      <class ref="nc.GetNCHouseholdersResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getNCHouseFeeList">
+      <class ref="nc.GetNCHouseFeeList"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getNCHouseFeeListResponse">
+      <class ref="nc.GetNCHouseFeeListResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHousePrepayDetail">
+      <class ref="nc.GetHousePrepayDetail"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHousePrepayDetailResponse">
+      <class ref="nc.GetHousePrepayDetailResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHousePrepayDetailByCommunityId">
+      <class ref="nc.GetHousePrepayDetailByCommunityId"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getHousePrepayDetailByCommunityIdResponse">
+      <class ref="nc.GetHousePrepayDetailByCommunityIdResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getInvoiceInfoByReceiptId">
+      <class ref="nc.GetInvoiceInfoByReceiptId"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getInvoiceInfoByReceiptIdResponse">
+      <class ref="nc.GetInvoiceInfoByReceiptIdResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getReconciliationDocumentsInfo">
+      <class ref="nc.GetReconciliationDocumentsInfo"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:getReconciliationDocumentsInfoResponse">
+      <class ref="nc.GetReconciliationDocumentsInfoResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryPrepaidPaymentFeeDetail">
+      <class ref="nc.QueryPrepaidPaymentFeeDetail"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:queryPrepaidPaymentFeeDetailResponse">
+      <class ref="nc.QueryPrepaidPaymentFeeDetailResponse"/>
+    </bindings>
+  </bindings>
+</bindings>

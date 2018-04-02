@@ -1,0 +1,117 @@
+
+<results totalCount="0" totalPage="0" />
+<result index="1">
+	<total_money>143.6</total_money>
+	<total_revmoney>143.6</total_revmoney>
+	<total_pendmoney>0.0</total_pendmoney>
+	<overdue_money>-53</overdue_money>
+	<overdue_revmoney>0</overdue_revmoney>
+	<overdue_pendmoney>-53</overdue_pendmoney>
+	<actym>2017-01</actym>
+	<mm_pay_money>0.00</mm_pay_money>
+	<vcapitalnote />
+	<nstoplfbasemny />
+	<vsourcebillrowid />
+	<ffeeflag>1</ffeeflag>
+	<srnlatefeemny>-53</srnlatefeemny>
+	<nmny>143.6</nmny>
+	<actym>2017-01</actym>
+	<ffeesrc />
+	<vformula />
+	<vsourcebilltype>955Y</vsourcebilltype>
+	<bclose />
+	<pk_srcrec />
+	<ndosage />
+	<srnprice />
+	<pk_corp>1045</pk_corp>
+	<pk_faretypeid_b>1045T910000000001X9Y</pk_faretypeid_b>
+	<vmemo />
+	<bstop>N</bstop>
+	<srnrevmny>143.6</srnrevmny>
+	<nstopmny />
+	<nyjmny />
+	<pactysmny />
+	<pk_actym>0001T9100000000016Q1</pk_actym>
+	<rn>1</rn>
+	<pactsrcysmny />
+	<dstopdatetime />
+	<pk_housecusid>1045T910000000001H7D</pk_housecusid>
+	<nbdefaultmny>143.6</nbdefaultmny>
+	<srnberevlfmny />
+	<reserve1>1045T9100000000014FA</reserve1>
+	<reserve2>1045T9100000000010KO</reserve2>
+	<reserve3>1045T910000000000007</reserve3>
+	<nprice>1.6</nprice>
+	<reserve8 />
+	<reserve9 />
+	<reserve4 />
+	<reserve5 />
+	<pk_bankmanage />
+	<nlatebaseyjmny />
+	<reserve6 />
+	<reserve7 />
+	<pk_billtype />
+	<vcusname>尹**</vcusname>
+	<pk_currency>00010000000000000001</pk_currency>
+	<pk_srccurrency>00010000000000000001</pk_srccurrency>
+	<narea />
+	<dbegin>2017-01-01</dbegin>
+	<dlatefeecomputeend>2017-07-01</dlatefeecomputeend>
+	<nstoplfmny />
+	<ncurratio>1</ncurratio>
+	<ts>2017-07-31 18:05:52</ts>
+	<pk_pact />
+	<vsourcebillid>1045T910000000002ZOR</vsourcebillid>
+	<pk_receivablesid>1045A8100000002I1FW2</pk_receivablesid>
+	<dlateendbak />
+	<nrevmny>143.6</nrevmny>
+	<srnmny>143.6</srnmny>
+	<dlatebeginbak />
+	<ncurreading />
+	<dr>0</dr>
+	<nlastreading />
+	<srnbelatefeemny />
+	<dshpay>2017-01-01</dshpay>
+	<dbill />
+	<srnrevlfmny>0</srnrevlfmny>
+	<block>N</block>
+	<nlatefeemny>-53</nlatefeemny>
+	<vlastbilltype>952G</vlastbilltype>
+	<bautorepair />
+	<paymentstatus>0</paymentstatus>
+	<nyjbasemny />
+	<pk_revfare>1045A8100000002OQHS0</pk_revfare>
+	<reserve15 />
+	<reserve16 />
+	<pk_outdetail />
+	<nrevlfmny>0</nrevlfmny>
+	<vreason />
+	<user_name>王艳玲</user_name>
+	<frevtype>0</frevtype>
+	<nstopbasemny />
+	<pk_faretypeid>1045T9100000000002BK</pk_faretypeid>
+	<nsrcdefaultmny>143.6</nsrcdefaultmny>
+	<nlfratio />
+	<dlatefeecomputebegin />
+	<dend>2017-01-31</dend>
+	<brepair />
+	<pk_meterid />
+	<dlast />
+	<vlastbillrowid>1045A8100000002I18G8</vlastbillrowid>
+	<vdef5 />
+	<vdef3>1045A8100000002IU6A2</vdef3>
+	<vdef4 />
+	<vdef1 />
+	<shishou>143.6</shishou>
+	<vdef2 />
+	<reserve14>Y</reserve14>
+	<reserve13 />
+	<reserve12 />
+	<reserve11 />
+	<reserve10 />
+	<vlastbillid>1045A8100000002I16VD</vlastbillid>
+	<nlateyjmny />
+	<dcur />
+	<dshpaybak />
+</result>
+
