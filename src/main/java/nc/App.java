@@ -18,7 +18,7 @@ public class App {
   public static void main(String[] args) {
     System.out.println("Hello World!");
     System.out.println("Hello World2222!");
-    System.out.println("Hello 3333333333333333333!");
+    System.out.println("Hello 3333333333!");
     System.out.println("Hello 444444444444!");
   }
 }
