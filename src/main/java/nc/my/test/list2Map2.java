@@ -19,7 +19,7 @@ public class list2Map2 {
                         V value = list.get(i);  
                         @SuppressWarnings("unchecked")  
                         K key = (K) methodGetKey.invoke(list.get(i));  
-                        map.put(key, value);  
+                        map.put(key, value);
                     }  
                 } catch (Exception e) {  
                     throw new IllegalArgumentException("field can't match the key!");  

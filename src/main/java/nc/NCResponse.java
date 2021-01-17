@@ -14,4 +14,5 @@ package nc;
  */
 public class NCResponse {
 
+
 }
