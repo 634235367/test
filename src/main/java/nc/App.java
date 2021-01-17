@@ -17,12 +17,12 @@ public class App {
   
   public static void main(String[] args) {
     System.out.println("He辅导辅导llo chainaWochinarld丰富的辅导辅导费!");
-    System.out.println("wwwwwwwwwwwwwwwwwww!");
-    System.out.println("Hdddddnindfffdddddd!");
-    System.out.println("eeeeeeeeeeeeeeeeeee");
-     System.out.println("eeeeeeeeeedfdee哈哈哈ede哈哈啊好v2dev2dev2dev2dev2d哈哈发等丰富的非发的丰富的ev2等丰富的非dev2eeeeeeeee");
-     System.out.println("eeeeeeeeeeeeedffdfdfdeeeeee");
-     System.out.println("eeeeeeeeeeeeee的地方都等丰富的非eeeee");
-     System.out.println("eeeeeeeeeedfdfeeeeeeeee");
+    System.out.println("dfddfdf!");
+    System.out.println("fddfdff!");
+    System.out.println("eeeeeeefdfdfeeeeeeeeeeee");
+     System.out.println("eeeeedfdfdeeeeedfdee哈哈哈ede哈哈啊好v2dev2dev2dev2dev2d哈哈发等丰富的非发的丰富的ev2等丰富的非dev2eeeeeeeee");
+     System.out.println("eeeeedfdfdfdeeeeeeeedffdfdfdeeeeee");
+     System.out.println("dfdfdfd");
+     System.out.println("eeeeeeedfdfdfdfeeedfdfeeeeeeeee");
   }
 }
