@@ -20,8 +20,8 @@ public class App {
     System.out.println("Hello china zhongguoWorld!");
     System.out.println("He辅导辅导llo chainaWochinarld丰富的辅导辅导费!");
     System.out.println("wwwwwwwwwwwwwwwwwww!");
-    System.out.println("Hdddddnindfffdddddd!");
-    System.out.println("eeeeeeeeeeeeeeeeeee");
+    System.out.println("的辅导辅导辅导辅导!");
+    System.out.println("打发打发大幅度辅导费方法打发打发errreggggrrggfgggg");
      System.out.println("eeeeeeeeeedfdeeedevshitouzukuizhanghsnagmei2dev2dev2dev2dev2dev2szgfdsfdffdfdfdfdev2eeeeeeeee");
      System.out.println("eeeeeeeeeeeeeeeeeee");
      System.out.println("eeeeeeeeeedfdee哈哈哈ede哈哈啊好v2dev2dev2dev2dev2d哈哈发等丰富的非发的丰富的ev2等丰富的非dev2eeeeeeeee");
