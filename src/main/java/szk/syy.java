@@ -23,4 +23,8 @@ public class syy {
     public  void print44444(){
         System.out.println("this,cat,dog car mice");
     }
+
+    public  void print555(){
+        System.out.println("this,cat,dog car mice");
+    }
 }
